@@ -14,12 +14,12 @@ No! Codeacademy uses a REPL, which stand for Read, Evaluate, Print, and Loop. It
 
 On the first day of class, someone at Flatiron School's engineering team will create a "container" for you. Once it's created, you'll see it in your list of "shared containers." A container is just a computer that you can control from the cloud. Click on the container, then clide "IDE" to launch your development environment. 
 
-!(https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/nitrous-container.png)
+![](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/nitrous-container.png)
 
 
 The Nitrous IDE is made up of three parts - a text editor, file browser, and terminal/command line.
 
-!(https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/nitrous-ide.png)
+![](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/nitrous-ide.png)
 
 The main section is our text editor, where we can write our code. It's a text editor just like Microsoft Word or Text Edit, but does some nice features for code like syntax highlighting and closing parenthesis for us. 
 
