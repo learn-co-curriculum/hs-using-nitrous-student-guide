@@ -29,3 +29,5 @@ The main section is our text editor, where we can write our code. It's a text ed
  All of this might look a little overwhelming at first, but soon you'll be navigating your environment like a pro!
 
 
+
+<a href='https://learn.co/lessons/hs-using-nitrous-student-guide' data-visibility='hidden'>View this lesson on Learn.co</a>
