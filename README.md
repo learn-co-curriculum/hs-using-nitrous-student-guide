@@ -30,4 +30,4 @@ The main section is our text editor, where we can write our code. It's a text ed
 
 
 
-<a href='https://learn.co/lessons/hs-using-nitrous-student-guide' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-using-nitrous-student-guide' title='Introduction - Nitrous.io'>Introduction - Nitrous.io</a> on Learn.co and start learning to code for free.</p>
